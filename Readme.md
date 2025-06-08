@@ -1,11 +1,12 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+# Naga Sai Harshini Revalli's Personal Portfolio
+
+> Live Demo: https://Harshini-Revalli.github.io/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Harshini-Revalli/Harshini-Revalli.github.io/commits/main)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://Harshini-Revalli.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/naga-sai-harshini-revalli-15675a211/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
@@ -31,27 +32,27 @@
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+- Clone the repository and modify the content of `index.html` to personalize your portfolio.
+- Add your profile and university images to `assets/img/profile/` and `assets/img/education/` respectively.
+- Place your project images (if you decide to add them back) in `assets/img/portfolio/`.
+- Update the details in the `index.html` for your projects.
+- To deploy your website via [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site):
+  1. Create a GitHub repository named `<your-github-username>.github.io` (e.g., `Harshini-Revalli.github.io`).
+  2. Push your code to the `main` branch of this repository.
+  3. Go to your repository settings on GitHub, navigate to "Pages" under "Code and automation," select the `main` branch as the source, and save.
 
 ## Sections 📚
 ✔️ About\
 ✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
-✔️ Resume\
 ✔️ Contact Info
 
 
-
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+*   <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
 ## Contributing 💡
 #### Step 1
